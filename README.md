@@ -16,5 +16,21 @@ This project demonstrates advanced C++ skills, database management, and GUI inte
 
 ---
 
-## **Folder Structure**
++---------------------------+
+|          GUI/CLI          |
+|   (Qt5 GUI & Terminal)    |
++-----------+---------------+
+            |
+            v
++---------------------------+
+|         Versioning        |
+|  (Diff & version manager) |
++-----------+---------------+
+            |
+            v
++---------------------------+
+|         Storage           |
+|   (SQLite backend)        |
++---------------------------+
+
 
