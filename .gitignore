@@ -39,3 +39,19 @@
 
 # debug information files
 *.dwo
+# C++ / Qt
+build/
+*.o
+*.exe
+*.obj
+*.log
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+dist/
